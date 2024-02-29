@@ -1,11 +1,9 @@
 <h1 align="center">Olá eu sou o Bruno!</h1>
 <h3 align="center">Sou um apaixonado por programação que se diverte (e estressa) escrevendo cada linha.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">O que eu sei:</h3>
 <p align="left">
   <span style="display: inline-block; background-color: white; padding: 5px; border-radius: 50%;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
