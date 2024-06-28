@@ -1,5 +1,5 @@
 <h1 align="center">Olá eu sou o Bruno!</h1>
-<h3 align="center">Sou um apaixonado por programação que se diverte (e estressa) escrevendo cada linha.</h3>
+<h3 align="center">Sou um apaixonado por programação que se diverte (e estressa) escrevendo cada linha. Atualmente estou em busca de me especializar em .NET, mais especificamente em desenvolvimento full-stack usando Blazor.</h3>
 <p align="left">
 </p>
 
