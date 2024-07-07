@@ -1,5 +1,9 @@
 <h1 align="center">Olá eu sou o Bruno!</h1>
 <h3 align="center">Sou um apaixonado por programação que se diverte (e estressa) escrevendo cada linha. Atualmente estou em busca de me especializar em .NET, mais especificamente em desenvolvimento full-stack usando Blazor.</h3>
+<h2 align="center">
+  Meu perfil no MicrosoftLearn: <a href="https://learn.microsoft.com/pt-br/users/brunocarvalho-9593/">Microsoft Learn</a>
+</h2>
+
 <p align="left">
 </p>
 
