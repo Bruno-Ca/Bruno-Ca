@@ -2,6 +2,7 @@
 <h3 align="center">Sou um apaixonado por programação que se diverte (e estressa) escrevendo cada linha. Atualmente estou em busca de me especializar em .NET, mais especificamente em desenvolvimento full-stack usando C#, JS, HTML e CSS.</h3>
 <h2 align="center">
   Meu perfil no <a href="https://learn.microsoft.com/pt-br/users/brunocarvalho-9593/" target="_blank">Microsoft Learn</a>
+  
   Meu perfil no <a href="https://www.dio.me/users/brunopessoal888" target="_blank">Dio.</a>
 </h2>
 
